@@ -5,3 +5,6 @@ Included in this repository is information on how to fit multivariate longitudin
 
 * Multivariate_Longitudinal_Models.pdf: A pdf detailing my work on fitting multivariate longitduinal models.  Topics include what models we can fit, how to fit them, a simulation study comparing the models, model building suggestions, and other discussion.
 
+* simulation_code: A folder including all R scripts used to run the simulation study
+
+* fit_models.R: An R script fitting two multivariate longitduinal models on real clinical data.
